@@ -8,7 +8,6 @@ Ejercicio 1
 
 Modelo Relacional
 
-- ATLETA(###NºDorsal###, fk NºDorsal, Nombre, …)
-
+![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicioER.jpg)
 
 
