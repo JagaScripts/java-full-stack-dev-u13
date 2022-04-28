@@ -71,3 +71,6 @@ Modelo Relacional
 
 ![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicio7MR.JPG)
 
+Ejercicio 8
+
+![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/EJ8.jpg)
