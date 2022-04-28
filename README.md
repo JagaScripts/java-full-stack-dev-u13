@@ -33,3 +33,13 @@ Una relacion cardinalidad 1:N la clave del lado del cardinalida 1 es clave foran
 
 ![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicio3MR.jpg)
 
+Ejercicio 4
+
+![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicio4ER.jpg)
+
+Modelo Relacional
+
+Tres relaciones con cardinalidad 1:N donde la clave del lado del cardinalida 1 es clave foranea del lado del muchos, una relación ternaria la realción pasa a ser una tabla con todas las claves primarias de las tablas y tambien tenemos una relacion N:N que se convierte en una tabla itermedia con las claves foraneas de las dos tablas relacionadas en modelo relacional es 
+
+![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicio4MR.jpg)
+
