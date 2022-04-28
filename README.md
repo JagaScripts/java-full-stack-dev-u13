@@ -8,6 +8,6 @@ Ejercicio 1
 
 Modelo Relacional
 
-![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicioER.jpg)
+![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicio1ER.jpg)
 
 
