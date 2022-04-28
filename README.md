@@ -1,5 +1,7 @@
 # java-full-stack-dev-u13
 
+Jose A González, Joan Hurtado y Daniel Fernadez
+
 UD13 - Modelo Relacional
 
 Ejercicio 1
