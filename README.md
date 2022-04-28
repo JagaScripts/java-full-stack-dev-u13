@@ -56,7 +56,7 @@ Tres relaciones con cardinalidad 1:N donde la clave del lado del cardinalida 1 e
 
 Ejercicio 6
 
-![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicio6ER.jpg)
+![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicio6ER.png)
 
 Modelo Relacional
 
@@ -65,7 +65,7 @@ Modelo Relacional
 
 Ejercicio 7
 
-![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicio7ER.jpg)
+![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicio7ER.png)
 
 Modelo Relacional
 
