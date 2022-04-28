@@ -51,5 +51,23 @@ Modelo Relacional
 
 Tres relaciones con cardinalidad 1:N donde la clave del lado del cardinalida 1 es clave foranea del lado del muchos, una relación ternaria la realción pasa a ser una tabla con todas las claves primarias de las tablas y tambien tenemos una relacion N:N que se convierte en una tabla itermedia con las claves foraneas de las dos tablas relacionadas en modelo relacional es 
 
-![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicio5MR.jpg)
+![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicio5MR.JPG)
+
+
+Ejercicio 6
+
+![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicio6ER.jpg)
+
+Modelo Relacional
+
+![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicio6MR.JPG)
+
+
+Ejercicio 7
+
+![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicio7ER.jpg)
+
+Modelo Relacional
+
+![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicio7MR.JPG)
 
