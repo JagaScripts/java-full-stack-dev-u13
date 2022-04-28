@@ -43,7 +43,7 @@ Tres relaciones con cardinalidad 1:N donde la clave del lado del cardinalida 1 e
 
 ![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicio4MR.jpg)
 
-Ejercicio 4
+Ejercicio 5
 
 ![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicio5ER.jpg)
 
