@@ -8,5 +8,7 @@ Ejercicio 1
 
 Modelo Relacional
 
+- ATLETA(NºDorsal, fk NºDorsal, Nombre, …)
+
 
 
