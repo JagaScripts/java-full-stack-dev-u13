@@ -8,6 +8,8 @@ Ejercicio 1
 
 Modelo Relacional
 
+Una relacion recursiva cardinalidad 1:1 en relacional es
+
 ![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/ejercicio1ER.jpg)
 
 
