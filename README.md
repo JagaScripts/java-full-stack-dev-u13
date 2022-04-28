@@ -74,3 +74,16 @@ Modelo Relacional
 Ejercicio 8
 
 ![image](https://github.com/JagaScripts/java-full-stack-dev-u13/blob/master/EJ8.jpg)
+
+## Ejercicios 2, 8 y 14 del Team2 unidad 12 y 13 con Modelo Entidad Relación y Modelo Relacional
+
+### Ejercicios 2 
+![image]
+
+
+### Ejercicios 8
+![image]
+
+
+### Ejercicios 14
+![image]
